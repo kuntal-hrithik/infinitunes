@@ -152,11 +152,10 @@ src
 
 </div>
 
-- Fetch latest source code from master branch.
-
+- Fetch latest source code from master branch.-
 ```console
-rajput-hemant@arch:~$ git clone https://github.com/rajput-hemant/infinitunes
-rajput-hemant@arch:~$ cd infinitunes
+kuntal-hrithik@arch:~$ git clone https://github.com/kuntal-hrithik/infinitunes
+kuntal-hrithik@arch:~$ cd infinitunes
 ```
 
 - Create **.env** file & add your own [**JioSaavn API**][api] Endpoint **OR** add your own API key in [**JioSaavnApi.js**](./src/api/JioSaavnApi.js) file.
@@ -180,8 +179,8 @@ export default api;
 - Run the app with VS Code or the command line:
 
 ```console
-rajput-hemant@arch:~/infinitunes$ npm install
-rajput-hemant@arch:~/infinitunes$ npm start
+kuntal-hrithik@arch:~/infinitunes$ npm install
+kuntal-hrithik@arch:~/infinitunes$ npm start
 ```
 
 <div align = center>
@@ -199,18 +198,18 @@ _Note: It may take up to 24h for the [contrib.rocks][contrib-rocks] plugin to up
 <!----------------------------------{ Labels }--------------------------------->
 
 [views]: https://komarev.com/ghpvc/?username=infinitunes&label=view%20counter&color=red&style=flat
-[repo-size]: https://img.shields.io/github/repo-size/rajput-hemant/infinitunes
-[issues]: https://img.shields.io/github/issues-raw/rajput-hemant/infinitunes
-[license]: https://img.shields.io/github/license/rajput-hemant/infinitunes
-[forks]: https://img.shields.io/github/forks/rajput-hemant/infinitunes?style=flat
-[stars]: https://img.shields.io/github/stars/rajput-hemant/infinitunes
-[contributors]: https://contrib.rocks/image?repo=rajput-hemant/infinitunes&max=500
-[contributors-graph]: https://github.com/rajput-hemant/infinitunes/graphs/contributors
-[contrib-rocks]: https://contrib.rocks/preview?repo=rajput-hemant%2Finfinitunes
+[repo-size]: https://img.shields.io/github/repo-size/kuntal-hrithik/infinitunes
+[issues]: https://img.shields.io/github/issues-raw/kuntal-hrithik/infinitunes
+[license]: https://img.shields.io/github/license/kuntal-hrithik/infinitunes
+[forks]: https://img.shields.io/github/forks/kuntal-hrithik/infinitunes?style=flat
+[stars]: https://img.shields.io/github/stars/kuntal-hrithik/infinitunes
+[contributors]: https://contrib.rocks/image?repo=kuntal-hrithik/infinitunes&max=500
+[contributors-graph]: https://github.com/kuntal-hrithik/infinitunes/graphs/contributors
+[contrib-rocks]: https://contrib.rocks/preview?repo=kuntal-hrithik%2Finfinitunes
 
 <!-----------------------------------{ Links }---------------------------------->
 
-[site]: https://rajput-hemant.github.io/infinitunes/
+[site]: https://kuntal-hrithik.github.io/infinitunes/
 
 <!------------------------------------{ api }----------------------------------->
 
